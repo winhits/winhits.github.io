@@ -1,34 +1,34 @@
 {
 	"project_info": {
-		"project_number": "175255555555",
-		"firebase_url": "https://betting-bets.firebaseio.com",
+		"project_number": "1555",
+		"firebase_url": "https://bettaseio.com",
 		"project_id": "betting-bets",
-		"storage_bucket": "betting-bets.appspot.com"
+		"storage_bucket": "bettppspot.com"
 	},
 	"client": [
 		{
 			"client_info": {
-				"mobilesdk_app_id": "1:179402921730:android:1926272dfa3f7b50",
+				"mobilesdk_app_id": "1:17dfa3f7b50",
 				"android_client_info": {
-					"package_name": "com.bettingtips.daily"
+					"package_name": "com.ily"
 				}
 			},
 			"oauth_client": [
 				{
-					"client_id": "179555555555sercontent.com",
+					"client_id": "179ontent.com",
 					"client_type": 3
 				}
 			],
 			"api_key": [
 				{
-					"current_key": "AIzaSy5555555KCc9qATZkob4"
+					"current_key": "AIzqATZkob4"
 				}
 			],
 			"services": {
 				"appinvite_service": {
 					"other_platform_oauth_client": [
 						{
-							"client_id": "179402921730-50uk3pj62ge0thlp05
+							"client_id": "179ge0thlp05
 						}
 					]
 				}

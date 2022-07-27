@@ -1,0 +1,41 @@
+{
+	"project_info": {
+		"project_number": "179402921730",
+		"firebase_url": "https://betting-bets.firebaseio.com",
+		"project_id": "betting-bets",
+		"storage_bucket": "betting-bets.appspot.com"
+	},
+	"client": [
+		{
+			"client_info": {
+				"mobilesdk_app_id": "1:179402920",
+				"android_client_info": {
+					"package_name": "com.bey"
+				}
+			},
+			"oauth_client": [
+				{
+					"client_id": "17940ntent.com",
+					"client_type": 3
+				}
+			],
+			"api_key": [
+				{
+					"current_key": "AIzaSyCKCc9qATZkob4"
+				}
+			],
+			"services": {
+				"appinvite_service": {
+					"other_platform_oauth_client": [
+						{
+							"client_id": "17940292ntent.com",
+							"client_type": 3
+						}
+					]
+				}
+			},
+			"admob_app_id": "ca-ap0773009"
+		}
+	],
+	"configuration_version": "1"
+}
